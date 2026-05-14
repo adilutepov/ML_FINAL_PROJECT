@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+pydantic
+scikit-learn
+xgboost
+tensorflow
+joblib
+numpy
+pandas
+scipy
+mlflow
+rdkit
+torch
+torch_geometric
